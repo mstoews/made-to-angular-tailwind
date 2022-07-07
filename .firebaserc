@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "themanager-cdac2": {
+      "hosting": {
+        "angular-tailwind": [
+          "themanager-cdac2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "themanager-cdac2"
+  }
+}
