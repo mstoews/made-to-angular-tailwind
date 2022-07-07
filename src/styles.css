@@ -28,14 +28,14 @@
 }
 
 #hero {
-  background-image: url('./assets/cassie_buttons.jpg');
+  background-image: url('./assets/casie_knitting_horizontal.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 @media (max-width: 576px) {
   #hero {
-    background-image: url('./assets/cassie_wool_1.jpg');
+    background-image: url('./assets/casie_knitting_horizontal.jpg');
     background-position: center;
   }
 }

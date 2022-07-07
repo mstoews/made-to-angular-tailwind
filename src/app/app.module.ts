@@ -7,13 +7,15 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SubscribeComponent } from './subscribe/subscribe.component';
 import { LandingPageComponent } from './landing-page/landing-page.component';
 import { ClipboardComponent } from './clipboard/clipboard.component';
+import { GalleryComponent } from './gallery/gallery.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SubscribeComponent,
     LandingPageComponent,
-    ClipboardComponent
+    ClipboardComponent,
+    GalleryComponent
   ],
   imports: [
     BrowserModule,
